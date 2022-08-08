@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/idProfile"
+        android:title="Home"/>
+    <item
+        android:id="@+id/menu_update_profile"
+        android:title="Change Profile"/>
+    <item
+        android:id="@+id/menu_update_email"
+        android:title="Change Email"/>
+    <item
+        android:id="@+id/menu_change_password"
+        android:title="Change Password"/>
+    <item
+        android:id="@+id/idAboutUs"
+        android:title="About Us"/>
+    <item
+        android:id="@+id/idLogOut"
+        android:title="Logout"/>
+
+</menu>

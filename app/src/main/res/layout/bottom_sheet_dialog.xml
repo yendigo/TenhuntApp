@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/idRLBSheet"
+    android:background="@color/black">
+
+    <TextView
+        android:id="@+id/idTVPostTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:padding="4dp"
+        android:text="Post Title"
+        android:textColor="@color/white"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+    <ImageView
+        android:id="@+id/idIVPost"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/idTVPostTitle"
+        android:layout_centerVertical="true"
+        android:layout_margin="4dp"
+        android:src="@mipmap/ic_launcher"
+        android:padding="4dp" />
+
+    <TextView
+        android:id="@+id/idTVDesc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/idTVPostTitle"
+        android:layout_margin="4dp"
+        android:layout_toRightOf="@id/idIVPost"
+        android:padding="3dp"
+        android:text="Description"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/idTVContact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/idTVDesc"
+        android:layout_margin="4dp"
+        android:layout_toRightOf="@id/idIVPost"
+        android:padding="3dp"
+        android:text="Contact Number"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/idTVPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/idTVContact"
+        android:layout_margin="4dp"
+        android:layout_toRightOf="@id/idIVPost"
+        android:padding="3dp"
+        android:text="Price"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/white" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:layout_below="@+id/idIVPost">
+
+        <Button
+            android:id="@+id/idBtnEdt"
+            android:layout_width="8dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="4dp"
+            android:text="Edit Post"
+            android:textAllCaps="false"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/idBtnViewDetails"
+            android:layout_width="8dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="4dp"
+            android:text="View Details"
+            android:textAllCaps="false"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+
+</RelativeLayout>

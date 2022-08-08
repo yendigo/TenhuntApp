@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809039736380",
+    "project_id": "tenhunt-2dd85",
+    "storage_bucket": "tenhunt-2dd85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809039736380:android:78f60140fb6afa3890dd39",
+        "android_client_info": {
+          "package_name": "com.example.tenhunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809039736380-l204tmman9b3ubfgb9mb755nmrmqplbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKflrDiWjZUfPxaqGWmpIIVXNssakSzM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809039736380-l204tmman9b3ubfgb9mb755nmrmqplbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Andy/AndroidStudioProjects/Tenhunt/app/src/main/res/font/montserrat_regular.xml" value="0.12407407407407407" />
+        <entry key="..\:/Users/Andy/AndroidStudioProjects/Tenhunt/app/src/main/res/font/roboto_regular.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/Andy/AndroidStudioProjects/Tenhunt/app/src/main/res/layout/activity_about_us.xml" value="0.225" />
+        <entry key="..\:/Users/Andy/AndroidStudioProjects/Tenhunt/app/src/main/res/layout/activity_add_post.xml" value="0.2" />
+        <entry key="..\:/Users/Andy/AndroidStudioProjects/Tenhunt/app/src/main/res/layout/activity_change_password.xml" value="0.225" />
+        <entry key="..\:/Users/Andy/AndroidStudioProjects/Tenhunt/app/src/main/res/layout/activity_forgot_password.xml" value="0.2" />
+        <entry key="..\:/Users/Andy/AndroidStudioProjects/Tenhunt/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/Andy/AndroidStudioProjects/Tenhunt/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Andy/AndroidStudioProjects/Tenhunt/app/src/main/res/layout/activity_menu.xml" value="0.11639492753623189" />
+        <entry key="..\:/Users/Andy/AndroidStudioProjects/Tenhunt/app/src/main/res/layout/activity_opening.xml" value="0.2" />
+        <entry key="..\:/Users/Andy/AndroidStudioProjects/Tenhunt/app/src/main/res/layout/activity_post_page.xml" value="0.22" />
+        <entry key="..\:/Users/Andy/AndroidStudioProjects/Tenhunt/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/Users/Andy/AndroidStudioProjects/Tenhunt/app/src/main/res/layout/activity_update_email.xml" value="0.2" />
+        <entry key="..\:/Users/Andy/AndroidStudioProjects/Tenhunt/app/src/main/res/layout/activity_update_profile.xml" value="0.2" />
+        <entry key="..\:/Users/Andy/AndroidStudioProjects/Tenhunt/app/src/main/res/layout/activity_upload_profile_pic.xml" value="0.2" />
+        <entry key="..\:/Users/Andy/AndroidStudioProjects/Tenhunt/app/src/main/res/layout/activity_user_profile.xml" value="0.22" />
+        <entry key="..\:/Users/Andy/AndroidStudioProjects/Tenhunt/app/src/main/res/layout/nav_header.xml" value="0.225" />
+        <entry key="..\:/Users/Andy/AndroidStudioProjects/Tenhunt/app/src/main/res/layout/post_rv_item.xml" value="0.225" />
+        <entry key="..\:/Users/Andy/AndroidStudioProjects/Tenhunt/app/src/main/res/menu/drawer_menu.xml" value="0.225" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
